@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "airbus-c2178",
+  "private_key_id": "78ce21ef0a4bb2afe05f9e816b3334eab5dc22fc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzbYsvqyZ620Xl\n3aFHZ3PuaIQtUPQt1YZDCyJgzSbzPZ5/t7KhbIoUnRlftDEMhi5T/9iHm2obOKFR\nThXFbZiyHkgdtNuH1mTFr1NT6z3gqsZVHf5SprqHRLyDCRs2p4bUNEYepE2iu6Ne\nTYcgYRnUm13oAxRQDOmNsqt5uDdg5MuG9ZVox4GaKMnZjM7nW6TkFSJGrnkNfGcc\nYMBij2PSO5sbY8KwxAHLUO0XXwz4WMOgsvbb5exC5YVnTc6TyBb9KMmAJdQEImhw\n7RnZ6Vd/4syDrAAyss5jTOYbnJufDUpdhdvwJnKS55CPVTR7dsls5m41l142TzgS\nxbSKO6orAgMBAAECggEAS4UP0EB5MbyY7ucZurQQV4gmGey42ZHFsPI+xf+TJU4K\nKDdpOAg3FfYJd/6fpmXTmgdVW75OKqbrPw1enHpEirO0Jsy4mbPjNlFVAT1CDg3S\n7IBzStZiLA0CSyTKD3bziN13pe4Bvzy6xjZbaYV1GcdK/xxMsGS+6KULB3BB3sW3\nZ/D1kuH49qvClBmIWqbuEFhnlE0rK44zvSImc28VFoZZpyKHLBjiqny4UAIxC2iR\nrx+LEAMQ9yMzFFeY82Ep5pEJmUM65FGDYtCuug9kaJdzgNGHgLBaWL3hhlwHTzdF\nwxrLa+MBoVZJY6ZwxcsT8ZHS+AGqMRWEiYU5K7lwAQKBgQD5WVI5cETuWqYeX7YW\ny2p//hxrqc6wh32X9luzgkItgYz3KfTXN5khb1FdqBs54k7atMk1IXEoP2/gutXv\n+Ypy+Tj93nURZNDXnUcmjhVwZ08sUPHLoiWLKVG9tmxLjkiwhE2a2HNclUq68qjS\nPB3nADMtqnhw9WeOEU2MBEpFSwKBgQC4NsRY9xqFW64XlE5vwThW32C7iyjYoMkP\nyShbrG01Ez+3HzRH/xtL1hB2Xq9SqbLrq+bXQ4gPgE10pA25FKcYXHweZPyZ3ZHw\nkFf6UvkKNuhNaVNfKUbsbD5UTzwQtB9IhvM4Hv2A3VEBByTFB42CO6T0bKMQa6xd\nGIsj6UKCoQKBgDBZpZwFrRga88NIA+L/prMS7yfhUXbhjvT8jGOOio6QZGk49YUV\n/teA4mIqyry6qVe3Xpyy02Jeiq8lC37xAGuy794qWMD6r5RfpwBO5NFa9vs85uX5\nlxYY+QS0buNnv6iavwGbnyMAv/DoRNwfVB0K6OGeAKTGsUHXERZpbo1pAoGBALLf\nkzbj8p+tz1VcD/HaSC+qxg416Vq4faPTa1nhC0XvQ/430ZdbcpDn8qJN/KYi2/aV\nvBgonfSXXB63sg+Wq04vd+I3o0Rw7uYN8y/B48r0WAvbCzarKRAnZzqMmcGKdZoC\nWCeViAjaXm7GFgEv/UuJSPqChrBKLVtUmr8rIAchAoGBAJ6naf4MIZKKgdgmh7u/\ne71w9cIDw/NV8EPa83f07obw06YmKk86zl/c7x6cP5Aw/qCsSY+1dhrsz6fyHWvj\nkdosk8zZM5Dp5jX77mKJ0mOPS1i3h0m4m+5jUoD5JjbG+hBkBI7jfOYGAGHVnVHw\n7JZFbZTY36+vG9Xrm6onXMEt\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow@airbus-c2178.iam.gserviceaccount.com",
+  "client_id": "113377111710020115003",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow%40airbus-c2178.iam.gserviceaccount.com"
+}

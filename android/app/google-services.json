@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155438591114",
+    "project_id": "airbus-c2178",
+    "storage_bucket": "airbus-c2178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155438591114:android:78c6f4a2088750ca8f9173",
+        "android_client_info": {
+          "package_name": "com.example.airbus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155438591114-pjq16ni9hcaa90bv375cv55etbvld2vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIGEd4LWylph4ZtVaVSVeNM4lUVjP2I8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155438591114-pjq16ni9hcaa90bv375cv55etbvld2vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
